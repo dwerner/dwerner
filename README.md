@@ -13,13 +13,11 @@ Philosophies that resonate with me:
 - Choose the right tool for the job, not the job for the tool.
 - Care about what you do, the craft and the work.
 
-# Projects timeline (desc)
+## Meaningful/Interesting Research Projects I've worked on
+
+Not intended as an exhaustive list, but here are some projects that I think are worth mentioning if you made it this far in my profile.
 
 Many of my projects here are research or educational drives and thus represent a multitude of snapshots into my thinking at different times in my development.
-
-Otherwise I've contributed to a number of open source projects, which I've separated into the Contributions section below.
-
-## Meaningful Projects
 
 ## AI era
 
@@ -46,7 +44,7 @@ Implementing a rust-based huffman-coding dumper for erigon's segment files. Was 
 
 # Pre-AI
 
-## 2016-onward [sg-engine](https://github.com/dwerner/sg-engine)
-####  [Nanactyl](https://github.com/dwerner/nanactyl) 
+## - [sg-engine](https://github.com/dwerner/sg-engine)
+## - [Nanactyl](https://github.com/dwerner/nanactyl) 
 
-###### TODO: finish
+Both of these projects are an evolution of a research game engine concept that I had been working on with since beginning with rust (2015-2016).
