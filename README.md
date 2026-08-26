@@ -18,9 +18,8 @@ Philosophies that resonate with me:
 
 ## Work projects
 
-Open source projects I've contributed to as a matter of course for work:
-
-
+- github.com/graphprotocol/indexer
+- github.com/casper-network/casper-node
 
 ## Meaningful/Interesting Research Projects I've worked on
 
@@ -49,6 +48,9 @@ Alternative timeline rust build tool. Idea is a monorepo where all dependencies 
 #### [erigon-dumper](https://github.com/dwerner/erigon-dumper)
 
 Implementing a rust-based huffman-coding dumper for erigon's segment files. Was looking to learn how to push an agent to implement tough algos, with highly mixed results.
+
+## Community
+### - Typed Arrow, [Struct-like views](https://github.com/tonbo-io/typed-arrow/pull/12)
 
 
 # Pre-AI
