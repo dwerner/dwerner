@@ -8,10 +8,11 @@ I write my own prose with intention: I wont paste slop at you.
 
 Philosophies that resonate with me:
 
+- Quality over speed.
 - A deep topic is simple to communicate for someone with a complete understanding.
-- Pick quality over speed.
 - Choose the right tool for the job, not the job for the tool.
-- Care about what you do, the craft and the work.
+- Care about what you do, both the craft and the work.
+- See the forest from the trees: why are you doing what you are doing? 
 
 ## Meaningful/Interesting Research Projects I've worked on
 
