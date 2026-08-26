@@ -2,8 +2,6 @@
 
 ## Who I am
 
-Thanks for dropping by.
-
 My name is Daniel and I'm a self-taught programmer. Starting at the age of 9, my interests in computers became deeply embedded and I later recognized it as my passion. I followed my own path and continue to be a life-long leaner. I'm rewarded by helping others and producing quality code I am proud of.
 
 I write my own prose with intention and won't paste slop at you.
