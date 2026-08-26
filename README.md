@@ -37,7 +37,7 @@ This harness was an exploration of prompt and context management ideas and proto
 - condensing/mutating turns in an existing session
 - runtime injected plugins
 - browser orchestration
-- 
+
 #### - [rmpl](https://github.com/dwerner/rmpl)
 
 Alternative timeline rust build tool. Idea is a monorepo where all dependencies live, rather than supporting crates at all.
@@ -47,7 +47,7 @@ Implementing a rust-based huffman-coding dumper for erigon's segment files. Was 
 
 #### - [Typed Arrow](https://github.com/tonbo-io/typed-arrow) - [Struct-like views](https://github.com/tonbo-io/typed-arrow/pull/12)
 
-Typed arrow, a community developed library for strongly-typed data access in rust. When I came upon the project I thought it needed a view type, which would allow zero copy reads of data while retaining strong typing.
+Typed arrow is a community developed library for strongly-typed data access in rust. When I came upon the project I thought it needed a view type, which would allow zero copy reads of data while retaining strong typing.
 
 ### Pre-AI
 
