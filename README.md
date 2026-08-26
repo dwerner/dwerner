@@ -2,7 +2,7 @@
 
 # Who I am
 
-My name is Daniel and I'm a self-taught programmer. Starting at the age of 9, my interests in computers became deeply embedded in my brain, and I later recognized them as an essential source of passion in my life. I followed my own path and continue to be a life-long learner. I'm rewarded by helping others and producing quality code I am proud of.
+My name is Daniel and I'm a self-taught programmer. Starting at the age of 9, my interests in computers became deeply embedded in my brain, and I later recognized them as an essential source of passion in my life. I followed my own path into engineering and continue to be a life-long learner. I'm rewarded by helping others and producing quality code I am proud of.
 
 I write my own prose with intention and won't paste slop at you.
 
@@ -18,8 +18,8 @@ Philosophies that resonate with me:
 
 Many of the projected I've worked on have been closed source/proprietary but in the last few years several of them have been open source.
 
-- [The Graph's Indexer Agent](github.com/graphprotocol/indexer)
-- [Casper Node](github.com/casper-network/casper-node)
+- [The Graph's Indexer Agent](https://github.com/graphprotocol/indexer)
+- [Casper Node](https://github.com/casper-network/casper-node)
 
 # Meaningful/Interesting Research Projects I've worked on
 
