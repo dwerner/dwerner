@@ -4,7 +4,7 @@
 
 Thanks for dropping by.
 
- I'm a self-taught programmer from age 9, followed my own path, and a life-long learner. I like helping others.
+My name is Daniel and I'm a self-taught programmer. Starting at the age of 9, my interests in computers became deeply embedded and I later recognized it as my passion. I followed my own path and continue to be a life-long leaner. I'm rewarded by helping others and producing quality code I am proud of.
 
 I write my own prose with intention and won't paste slop at you.
 
