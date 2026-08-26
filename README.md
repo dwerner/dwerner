@@ -29,18 +29,25 @@ Not intended as an exhaustive list, but here are some projects that I think are 
 
 #### - [balloons](https://github.com/dwerner/balloons)
 
-Psychosis-phase (I can build *anything* now!) building my own agent when the biggest issue with claude was it's ink rendering. Evolved from a TUI into a websocket-based service with a react frontend. Backend is async python + rust + lmdb. I used this agent in earnest for real work for a few months. (*Opencode since lured me away, and Oh-My-Pi is where I've settled for now.*)
+Psychosis-phase (I can build *anything* now!) building my own agent when the biggest issue with claude was it's ink rendering. Evolved from a TUI into a websocket-based service with a react frontend. Backend is async python + rust + lmdb. I used this agent in earnest for real work for a few months. Opencode since lured me away, and Oh-My-Pi is where I've settled for now.
 
 Primarily, this was built to investigate session context-management. The origin of the desire: while using claude in those first few months I found I was hitting the 100K token slump and asking for a summary of the recent decisions and context. I would just ask it to create a markdown file, many others have since done that.
 
-This harness was an exploration of prompt and context management ideas and prototypes, including condensing an existing session, adding plugins, browser orchestration, lots of other stuff. 
+This harness was an exploration of prompt and context management ideas and prototypes, including:
+- condensing/mutating turns in an existing session
+- runtime injected plugins
+- browser orchestration
+- 
 #### - [rmpl](https://github.com/dwerner/rmpl)
 
 Alternative timeline rust build tool. Idea is a monorepo where all dependencies live, rather than supporting crates at all.
 #### - [erigon-dumper](https://github.com/dwerner/erigon-dumper)
 
 Implementing a rust-based huffman-coding dumper for erigon's segment files. Was looking to learn how to push an agent to implement tough algos, with highly mixed results.
-#### - Typed Arrow, [Struct-like views](https://github.com/tonbo-io/typed-arrow/pull/12)
+
+#### - [Typed Arrow](https://github.com/tonbo-io/typed-arrow) - [Struct-like views](https://github.com/tonbo-io/typed-arrow/pull/12)
+
+Typed arrow, a community developed library for strongly-typed data access in rust. When I came upon the project I thought it needed a view type, which would allow zero copy reads of data while retaining strong typing.
 
 ### Pre-AI
 
