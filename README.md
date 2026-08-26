@@ -8,7 +8,7 @@ I write my own prose with intention: I wont paste slop at you.
 
 Philosophies that resonate with me:
 
-- A complete understanding of a deep topic is simple to communicate.
+- A deep topic is simple to communicate for someone with a complete understanding.
 - Pick quality over speed.
 - Choose the right tool for the job, not the job for the tool.
 - Care about what you do, the craft and the work.
