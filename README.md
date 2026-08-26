@@ -1,6 +1,10 @@
-##
+## Hi
 
-Hi I'm Daniel. I'm a self-taught programmer from age 9. I've followed my own path, and I'm a life-long learner. I like helping others, and I write my own prose with intention.
+Thanks for dropping by.
+
+I'm Daniel. I'm a self-taught programmer from age 9. I've followed my own path, and I'm a life-long learner. I like helping others.
+
+I write my own prose with intention: I wont paste slop at you.
 
 Philosophies that resonate with me:
 
