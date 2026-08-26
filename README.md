@@ -1,12 +1,12 @@
 ![banner](banner.svg)
 
-## Hi
+## Who I am
 
 Thanks for dropping by.
 
-I'm Daniel. I'm a self-taught programmer from age 9. I've followed my own path, and I'm a life-long learner. I like helping others.
+ I'm a self-taught programmer from age 9, followed my own path, and a life-long learner. I like helping others.
 
-I write my own prose with intention: I wont paste slop at you.
+I write my own prose with intention and won't paste slop at you.
 
 Philosophies that resonate with me:
 
@@ -31,13 +31,13 @@ Many of my projects here are research or educational drives and thus represent a
 
 #### - [balloons](https://github.com/dwerner/balloons)
 
-Psychosis-phase (I can build *anything* now...) building my own agent when the biggest issue with claude was it's ink rendering. Evolved from a TUI into a websocket-based service with a react frontend. Backend is async python + rust + lmdb. 
+Psychosis-phase (I can build *anything* now!) building my own agent when the biggest issue with claude was it's ink rendering. Evolved from a TUI into a websocket-based service with a react frontend. Backend is async python + rust + lmdb. 
 
 I used this agent in earnest for real work for a few months but it's mostly abandoned now.
 
-Opencode lured me away, and Oh-My-Pi is where I settled after that. 
+Opencode lured me away, and Oh-My-Pi is where I settled after that. For now.
 
-The main point that I investigated with this was context-management. The origin of this was: while using claude in those first few months I found I was hitting the 100K token slump and asking for a summary of the recent decisions and context. I would just ask it to create a markdown file, many others have since done that.
+The main point that I investigated with this was context-management. The origin of the desire: while using claude in those first few months I found I was hitting the 100K token slump and asking for a summary of the recent decisions and context. I would just ask it to create a markdown file, many others have since done that.
 
 This harness was an exploration of prompt and context management ideas and prototypes, including condensing an existing session, adding plugins, browser orchestration, lots of other stuff. 
 
