@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="banner" width="100%" />
+
 ## Hi
 
 Thanks for dropping by.
