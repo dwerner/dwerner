@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="banner" width="100%" />
+![banner](banner.svg)
 
 ## Hi
 
@@ -15,6 +15,12 @@ Philosophies that resonate with me:
 - Choose the right tool for the job, not the job for the tool.
 - Care about what you do, both the craft and the work.
 - See the forest from the trees: why are you doing what you are doing? 
+
+## Work projects
+
+Open source projects I've contributed to as a matter of course for work:
+
+
 
 ## Meaningful/Interesting Research Projects I've worked on
 
