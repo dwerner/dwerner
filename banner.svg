@@ -23,15 +23,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.6054688"
-     inkscape:cx="470.26764"
-     inkscape:cy="160.07786"
+     inkscape:zoom="0.8027344"
+     inkscape:cx="835.89292"
+     inkscape:cy="173.15815"
      inkscape:window-width="2194"
      inkscape:window-height="1162"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="text-group" />
+     inkscape:current-layer="banner" />
   <sodipodi0:namedview
      id="namedview"
      inkscape0:document-units="px"
@@ -166,17 +166,19 @@
   <g
      inkscape0:groupmode="layer"
      inkscape0:label="highlight"
-     id="layer-highlight">
+     id="layer-highlight"
+     transform="matrix(1,0,0,1.1281269,0,-49.969503)">
     <circle
        id="glow-circle"
        cx="1140"
        cy="280"
        r="110"
-       fill="url(#glow)" />
+       fill="url(#glow)"
+       style="fill:url(#glow)" />
     <path
        id="tree-lit"
        fill="#f59e0b"
-       d="M1140 234 L1172 320 L1108 320 Z" />
+       d="m 1140,234 32,86 h -64 z" />
   </g>
   <g
      inkscape0:groupmode="layer"
