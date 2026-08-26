@@ -16,7 +16,7 @@ Philosophies that resonate with me:
 
 # Work projects
 
-Many of the projected I've worked on have been closed source/proprietary but in the last few years several of them have been open source.
+Many of the projected I've worked on (as in my job) have been closed source/proprietary but in the last few years several of them have been open source.
 
 - [The Graph's Indexer Agent](github.com/graphprotocol/indexer)
 - [Casper Node](github.com/casper-network/casper-node)
