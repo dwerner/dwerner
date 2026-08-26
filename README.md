@@ -18,8 +18,8 @@ Philosophies that resonate with me:
 
 ## Work projects
 
-- github.com/graphprotocol/indexer
-- github.com/casper-network/casper-node
+- [The Graph's Indexer Agent](github.com/graphprotocol/indexer)
+- [Casper Node](github.com/casper-network/casper-node)
 
 ## Meaningful/Interesting Research Projects I've worked on
 
