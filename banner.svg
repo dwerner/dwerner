@@ -8,13 +8,13 @@
    inkscape0:version="1.4"
    sodipodi:docname="banner.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:inkscape0="http://www.inkscape.org/inkscape-namespace"
-   xmlns:sodipodi0="http://www.sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
-  <sodipodi:namedview
+   xmlns:sodipodi0="http://www.sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -26,13 +26,12 @@
      inkscape:zoom="0.8027344"
      inkscape:cx="835.89292"
      inkscape:cy="173.15815"
-     inkscape:window-width="964"
-     inkscape:window-height="1104"
+     inkscape:window-width="1578"
+     inkscape:window-height="1082"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer-background" />
-  <sodipodi0:namedview
+     inkscape:current-layer="layer-background" /><sodipodi0:namedview
      id="namedview"
      inkscape0:document-units="px"
      pagecolor="#101a2f"
@@ -44,10 +43,8 @@
      inkscape0:deskpagewidth="1280"
      inkscape0:deskpageheight="320"
      inkscape0:showgrid="false"
-     inkscape0:current-layer="layer-text" />
-  <defs
-     id="defs">
-    <linearGradient
+     inkscape0:current-layer="layer-text" /><defs
+     id="defs"><linearGradient
        id="bg-gradient"
        inkscape0:spreadmethod="pad"
        inkscape0:collect="none"
@@ -55,21 +52,17 @@
        y1="0"
        x2="0"
        y2="320"
-       gradientUnits="userSpaceOnUse">
-      <stop
+       gradientUnits="userSpaceOnUse"><stop
          offset="0"
          stop-color="#101a2f"
          stop-opacity="1"
          id="stop-gradient-top"
-         style="stop-color:#3d023c;stop-opacity:1;" />
-      <stop
+         style="stop-color:#38294a;stop-opacity:1;" /><stop
          offset="1"
          stop-color="#22304d"
          stop-opacity="1"
          id="stop-gradient-bottom"
-         style="stop-color:#321c3c;stop-opacity:1;" />
-    </linearGradient>
-    <radialGradient
+         style="stop-color:#28162f;stop-opacity:1;" /></linearGradient><radialGradient
        id="glow"
        inkscape0:spreadmethod="pad"
        inkscape0:collect="none"
@@ -78,117 +71,87 @@
        fx="1140"
        fy="280"
        r="110"
-       gradientUnits="userSpaceOnUse">
-      <stop
+       gradientUnits="userSpaceOnUse"><stop
          offset="0"
          stop-color="#f59e0b"
          stop-opacity="0.35"
-         id="stop-glow-center" />
-      <stop
+         id="stop-glow-center" /><stop
          offset="0.5"
          stop-color="#f59e0b"
          stop-opacity="0.12"
-         id="stop-glow-mid" />
-      <stop
+         id="stop-glow-mid" /><stop
          offset="1"
          stop-color="#f59e0b"
          stop-opacity="0"
-         id="stop-glow-edge" />
-    </radialGradient>
-  </defs>
-  <g
+         id="stop-glow-edge" /></radialGradient></defs><g
      inkscape0:groupmode="layer"
      inkscape0:label="background"
-     id="layer-background">
-    <rect
+     id="layer-background"><rect
        width="1280"
        height="320"
        x="0"
        y="0"
        fill="url(#bg-gradient)"
-       id="rect-background" />
-  </g>
-  <g
+       id="rect-background" /></g><g
      inkscape0:groupmode="layer"
      inkscape0:label="forest"
-     id="layer-forest">
-    <path
+     id="layer-forest"><path
        id="tree-1"
        fill="#3a4a68"
-       d="M60 274 L76 320 L44 320 Z" />
-    <path
+       d="M60 274 L76 320 L44 320 Z" /><path
        id="tree-2"
        fill="#3a4a68"
-       d="M150 262 L166 320 L134 320 Z" />
-    <path
+       d="M150 262 L166 320 L134 320 Z" /><path
        id="tree-3"
        fill="#2e3e5c"
-       d="M240 278 L256 320 L224 320 Z" />
-    <path
+       d="M240 278 L256 320 L224 320 Z" /><path
        id="tree-4"
        fill="#3a4a68"
-       d="M330 256 L346 320 L314 320 Z" />
-    <path
+       d="M330 256 L346 320 L314 320 Z" /><path
        id="tree-5"
        fill="#2e3e5c"
-       d="M420 270 L436 320 L404 320 Z" />
-    <path
+       d="M420 270 L436 320 L404 320 Z" /><path
        id="tree-6"
        fill="#4a5a78"
-       d="M510 250 L526 320 L494 320 Z" />
-    <path
+       d="M510 250 L526 320 L494 320 Z" /><path
        id="tree-7"
        fill="#2e3e5c"
-       d="M600 276 L616 320 L584 320 Z" />
-    <path
+       d="M600 276 L616 320 L584 320 Z" /><path
        id="tree-8"
        fill="#3a4a68"
-       d="M690 262 L706 320 L674 320 Z" />
-    <path
+       d="M690 262 L706 320 L674 320 Z" /><path
        id="tree-9"
        fill="#2e3e5c"
-       d="M780 272 L796 320 L764 320 Z" />
-    <path
+       d="M780 272 L796 320 L764 320 Z" /><path
        id="tree-10"
        fill="#3a4a68"
-       d="M870 256 L886 320 L854 320 Z" />
-    <path
+       d="M870 256 L886 320 L854 320 Z" /><path
        id="tree-11"
        fill="#2e3e5c"
-       d="M960 268 L976 320 L944 320 Z" />
-    <path
+       d="M960 268 L976 320 L944 320 Z" /><path
        id="tree-12"
        fill="#4a5a78"
-       d="M1050 248 L1066 320 L1034 320 Z" />
-    <path
+       d="M1050 248 L1066 320 L1034 320 Z" /><path
        id="tree-13"
        fill="#2e3e5c"
-       d="M1230 276 L1246 320 L1214 320 Z" />
-  </g>
-  <g
+       d="M1230 276 L1246 320 L1214 320 Z" /></g><g
      inkscape0:groupmode="layer"
      inkscape0:label="highlight"
      id="layer-highlight"
-     transform="matrix(1,0,0,1.1281269,0,-49.969503)">
-    <circle
+     transform="matrix(1,0,0,1.1281269,0,-49.969503)"><circle
        id="glow-circle"
        cx="1140"
        cy="280"
        r="110"
        fill="url(#glow)"
-       style="fill:url(#glow)" />
-    <path
+       style="fill:url(#glow)" /><path
        id="tree-lit"
        fill="#f59e0b"
-       d="m 1140,234 32,86 h -64 z" />
-  </g>
-  <g
+       d="m 1140,234 32,86 h -64 z" /></g><g
      inkscape0:groupmode="layer"
      inkscape0:label="text"
-     id="layer-text">
-    <g
-       id="text-group">
-      <text
+     id="layer-text"><g
+       id="text-group"><text
          id="name"
          x="80"
          y="168"
@@ -196,14 +159,10 @@
          font-size="84px"
          font-weight="700"
          fill="#f8fafc"
-         letter-spacing="1">DNW </text>
-      <text
+         letter-spacing="1">DNW </text><text
          id="tagline"
          x="84"
          y="228"
          font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
          font-size="26px"
-         fill="#9fb1c9">pragmatism</text>
-    </g>
-  </g>
-</svg>
+         fill="#9fb1c9">pragmatism</text></g></g></svg>
